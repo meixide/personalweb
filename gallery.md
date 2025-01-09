@@ -14,13 +14,18 @@ permalink: /gallery/
         Your browser does not support the video tag.
     </video>
 </div>
+* C: ...the same pattern appears many times. In Artificial Intelligence, this is called sparsity.
 
-C: ...the same pattern appears many times. In Artificial Intelligence, this is called sparsity.
-Mika: What's that?
-C: ...and it's a way that we mathematicians use to create algorithms that work with Big Data.
-Pablo López: That's amazing!
-Ruth Lorenzo: What are you going to perform?
-C: Prelude Number 1 from Book One of Bach's Well-Tempered Clavier, which is one of his masterpieces.
+* Mika: What's that?
+
+* C: ...and it's a way that we mathematicians use to create algorithms that work with Big Data.
+
+* Pablo López: That's amazing!
+
+* Ruth Lorenzo: What are you going to perform?
+
+* C: Prelude Number 1 from Book One of Bach's Well-Tempered Clavier, which is one of his masterpieces.
+
 
 ![My Image](/assets/images/prelude.png)
 
