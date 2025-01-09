@@ -8,10 +8,12 @@ permalink: /gallery/
 
 ## Featured Video
 
-<video controls width="640" height="360" poster="{{ '/assets/images/thumb.png' | relative_url }}">
-    <source src="{{ '/assets/videos/sparsity.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<div style="max-width: 100%; margin: auto;">
+    <video controls style="width: 100%; height: auto;" poster="{{ '/assets/images/thumb.png' | relative_url }}">
+        <source src="{{ '/assets/videos/sparsity.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 C: ...the same pattern appears many times. In Artificial Intelligence, this is called sparsity.
 Mika: What's that?
