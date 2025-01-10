@@ -12,7 +12,7 @@ title                    : "Carlos García Meixide"
 title_separator          : "-"
 name                     : &name "Carlos García Meixide"
 description              : &description "Severo Ochoa fellow at ICMAT - Universidad Autónoma de Madrid"
-url                      : https://meixide.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.meixide.gal # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #
 
