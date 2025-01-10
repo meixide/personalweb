@@ -1,4 +1,4 @@
-name: Deploy Jekyll AcademicPages
+name: Deploy Jekyll AcademicPages #trigger depl
 
 on:
   push:
