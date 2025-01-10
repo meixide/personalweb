@@ -32,7 +32,7 @@ I should note that I wasn't the first to draw parallels between a Bach fugue and
 
 Einstein highlights that a fugue consists of multiple voices interacting in complex patterns—each note makes sense not only in relation to what comes before and after but also in connection with simultaneous events and larger structural patterns. 
 
-We cannot fully understand causality by focusing solely on local relationships (e.g., note-to-note transitions), as Renaissance counterpoint did; instead, we require a structural, longitudinal perspective. This is what J. Robins pioneered with g-methods and structural nested models, which account for the full temporal and structural dynamics of data.
+We cannot fully understand causality by focusing solely on local relationships (e.g., note-to-note transitions), as Renaissance counterpoint did; instead, we require a structural, longitudinal perspective. This is what J. Robins pioneered with g-methods and structural nested models, which account for the full temporal and skeletal dynamics of data.
 
 However, there’s an intriguing twist: while Einstein used the fugue metaphor to advocate for deterministic causality in quantum mechanics (in opposition to the Copenhagen interpretation), modern causal inference focuses on identifying and estimating causal effects under uncertainty - something Einstein might have been uncomfortable with. 
 
