@@ -5,7 +5,7 @@ permalink: /gallery/
 
 ## Johann Sparsity Bach
 
-On January 7th, 2025, the Spanish TV channel laSexta aired my participation in the show 'El Piano', which seeks to find the best amateur pianist while highlighting the life stories behind the competing musicians.  I took the liberty of explaining that music had entered my life long before mathematics, and it was through J.S. Bach's legacy that I developed an interest in science.
+On January 7th, 2025, the Spanish TV channel laSexta aired my participation in the show 'El Piano', highlighting the life stories behind amateur pianists.  I took the liberty of explaining that music had entered my life long before mathematics, and it was through J.S. Bach's legacy that I developed an interest in science.
 
 <div style="max-width: 100%; margin: auto;">
     <video controls style="width: 100%; height: auto;" poster="{{ '/assets/images/thumb.png' | relative_url }}">
