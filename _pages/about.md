@@ -13,6 +13,7 @@ I see mathematical statistics as a unifying framework in this time of disruption
 ```python
 class GenerativeInvariance(Estimator):
     def __init__(self, intercept=True):
+        
         self.intercept = intercept
 
     def fit(self, data, source, target):
