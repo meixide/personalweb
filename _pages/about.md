@@ -17,6 +17,7 @@ class GenerativeInvariance(Estimator):
 
     def fit(self, data, source, target):
     # ...
+    
     def predict(self, x_new):
         x_mean = np.mean(x_new, axis=0)
         x_centered = x_new - x_mean
