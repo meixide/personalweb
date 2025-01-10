@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I see mathematical statistics as a unifying framework in this time of disruption brought by AI. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics. My passion lies in deriving useful, abstract and elegant results that address data-driven problems arising in clinical medicine and epidemiology, fields undergoing their own quiet revolution.
+I see mathematical statistics as a unifying framework in this time of disruption brought by AI. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics. My passion lies in deriving useful, abstract and elegant results that address data-driven problems arising in clinical medicine and epidemiology, fields undergoing their own quiet revolution. Ola
 
 ![My Image](/images/pizarra.png)
 
@@ -17,7 +17,7 @@ class GenerativeInvariance(Estimator):
 
     def fit(self, data, source, target):
     # ...
-    
+
     def predict(self, x_new):
         x_mean = np.mean(x_new, axis=0)
         x_centered = x_new - x_mean
