@@ -24,7 +24,7 @@ Source: [laSexta.com](https://www.lasexta.com/programas/piano/carlos-garcia-unio
 
 ![My Image](/assets/images/prelude.png)
 
-I should note that I wasn't the first to draw parallels between a Bach fugue and statistical problems - that insight came from Einstein himself. He explored this connection in the context of causality. In 1931, responding to a question from Planck, Einstein wrote[^1]:
+I should note that I wasn't the first to draw parallels between Bach's music and statistical problems - that insight came from Einstein himself. He explored this connection in the context of causality. In 1931, responding to a question from Planck, Einstein wrote[^1]:
 
 > We are like a juvenile learner at the piano, just relating one note to that which immediately precedes or follows. To an extent this may be very well when one is dealing with very simple and primitive compositions; but it will not do for the interpretation of a Bach Fugue. Quantum physics has presented us with very complex processes, and to meet them we must further enlarge and refine our concept of causality.
 
