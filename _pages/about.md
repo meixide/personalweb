@@ -47,7 +47,4 @@ class GenerativeInvariance(Estimator):
         return self.__class__.__name__
 ```
 
-## News
-- **Feb 24, 2025**: Touchdown in Berkeley after a long 13-hour flight. Exciting times ahead!
-- **Feb 11, 2025**: *Causal Survival Embeddings* has been published in *Statistical Methods in Medical Research*! Check it out: [https://doi.org/10.1177/09622802241311455](https://doi.org/10.1177/09622802241311455)
-- **Dec 18, 2024**: Honored to receive the Institute of Mathematical Statistics Award in Nice for *Uncertainty quantification for intervals*. 
+
