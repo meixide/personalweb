@@ -11,6 +11,12 @@ redirect_from:
 - [Publications](/publications/)
 - [Gallery](/gallery/)
 
+- [Short CV](https://www.dropbox.com/scl/fi/oxbyvrctfj263mg28eqit/main.pdf?rlkey=41k6uh1x101at7iquemnibty6&dl=0)
+- [LinkedIn](https://es.linkedin.com/in/carlos-garcía-meixide-b8ba4a1a8)
+
+
+
+
 ## About me
 I see mathematical statistics as a unifying framework in this time of disruption brought by AI. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics. My passion lies in deriving useful, abstract and elegant results that address data-driven problems arising in clinical medicine and epidemiology, fields undergoing their own quiet revolution. 
 
