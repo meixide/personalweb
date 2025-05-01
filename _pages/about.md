@@ -21,6 +21,7 @@ redirect_from:
 I see mathematical statistics as a unifying framework in this time of disruption brought by AI. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics. My passion lies in deriving useful, abstract and elegant results that address data-driven problems arising in clinical medicine and epidemiology, fields undergoing their own quiet revolution. 
 
 ## News
+- **Apr 30, 2025**: Great energy and insightful feedback at my talk [*Causal inference via proxy interventions*](https://ctml.berkeley.edu/43025-seminar-causal-inference-proxy-interventions) at UC Berkeley’s CTML.
 - **Feb 24, 2025**: Touchdown in Berkeley after a long 13-hour flight. Exciting times ahead at [CTML](https://ctml.berkeley.edu)!
 - **Feb 11, 2025**: *Causal Survival Embeddings* has been published in *Statistical Methods in Medical Research*! Check it out: [https://doi.org/10.1177/09622802241311455](https://doi.org/10.1177/09622802241311455)
 - **Dec 18, 2024**: Honored to receive the Institute of Mathematical Statistics Award in Nice for *Uncertainty quantification for intervals*. 
