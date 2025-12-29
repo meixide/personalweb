@@ -14,7 +14,7 @@ I see mathematical statistics as a unifying framework in this time of disruption
 
 
 ## News
-- **Dec 2, 2025**: *Generative Invariance* (feat. [David Ríos Insua](https://www.davidriosinsua.es/)) is now published in the [Electronic Journal of Statistics](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Domain-adaptation-under-hidden-confounding/10.1214/25-EJS2474.full). 
+- **Dec 2, 2025**: *Generative Invariance*, feat. [David Ríos Insua](https://www.davidriosinsua.es/), is now published in the [Electronic Journal of Statistics](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Domain-adaptation-under-hidden-confounding/10.1214/25-EJS2474.full). 
 - **Nov 5, 2025**: Grateful to the Statistics Department at Universidad de Valladolid for having me as a speaker. The talk was great, and the company even better. 
 - **Sep 26, 2025**: Took the stage at Espacio Fundación Telefónica for my talk [*The Mathematics of Electronic Music*](https://www.instagram.com/p/DPMIRmQDMLz/?igsh=MWJjZnNyb3lkZnlsdA==).
 - **Sep 22, 2025**: [Mark van der Laan](https://vanderlaan-lab.org/about/) discusses our *implied interventions* approach to causal inference with instruments in his [interview](https://www.youtube.com/watch?v=qr5JolEAuJU&t=1498s) with [Aleksander Molak](https://alxndr.io/). 
