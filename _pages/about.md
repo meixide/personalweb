@@ -13,7 +13,8 @@ I see mathematical statistics as a unifying framework in this time of disruption
 ## News
 - **Nov 5, 2025**: *Generative Invariance* (feat. [David Ríos](https://www.davidriosinsua.es/)) is now published in the Electronic Journal of Statistics. 
 - **Nov 5, 2025**: Grateful to the Statistics Department at Universidad de Valladolid for having me as a speaker. The talk was great, and the company even better. 
-- **Sep 26, 2025**: Took the stage at Espacio Fundación Telefónica for my talk [*The Mathematics of Electronic Music*](https://www.instagram.com/p/DPMIRmQDMLz/?igsh=MWJjZnNyb3lkZnlsdA==). 
+- **Sep 26, 2025**: Took the stage at Espacio Fundación Telefónica for my talk [*The Mathematics of Electronic Music*](https://www.instagram.com/p/DPMIRmQDMLz/?igsh=MWJjZnNyb3lkZnlsdA==).
+- **Sep 22, 2025**: [Mark van der Laan](https://vanderlaan-lab.org/about/) discusses our *implied interventions* approach to causal inference with instruments in his [interview](https://www.youtube.com/watch?v=qr5JolEAuJU&t=1498s) with [Aleksander Molak](https://alxndr.io/). 
 - **Sep 1, 2025**: Delighted to begin a new lecturing semester in the 3rd year of the Environmental Sciences BSc program at Universidad Autónoma de Madrid. 
 - **Apr 30, 2025**: Great energy and insightful feedback at my talk [*Causal inference via proxy interventions*](https://ctml.berkeley.edu/43025-seminar-causal-inference-proxy-interventions) at UC Berkeley’s CTML.
 - **Feb 24, 2025**: Touchdown in Berkeley after a long 13-hour flight. Exciting times ahead at [CTML](https://ctml.berkeley.edu)!
