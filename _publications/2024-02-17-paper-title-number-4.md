@@ -1,13 +1,13 @@
 ---
-title: "Unsupervised domain adaptation under hidden confounding"
+title: "Predictive posteriors under hidden confounding"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'with David Ríos Insua'
 date: 2024-02-23
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2402.15502'
+paperurl: 'https://arxiv.org/abs/2507.05170'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-We introduce a new predictive mechanism, *Generative Invariance*, that operates in the presence of hidden confounding across distributionally diverse data sources while ensuring consistent estimation of causal parameters—despite their recognized suboptimality for prediction in the literature. Our method is based on a novel estimand that captures the dependence structure between response noise and covariates, incorporating causal parameters into a generative model that adaptively replicates the conditional distribution of the test environment. Identifiability is achieved under a straightforward, empirically verifiable assumption. Our approach ensures probabilistic alignment with test distributions uniformly across arbitrary interventions, enabling valid predictions without requiring worst-case optimization or assumptions about the strength of perturbations at test time. Through extensive simulations, we demonstrate that our method outperforms state-of-the-art invariance-based and domain adaptation approaches. Additionally, we validate its practical applicability and superior target risk performance on a cardiovascular disease dataset.
+	Predicting outcomes in external domains is challenging due to hidden confounders that influence both predictors and outcomes, complicating generalization under distribution shifts. Traditional methods often rely on stringent assumptions or overly conservative regularization, compromising estimation and predictive accuracy. Generative Invariance (GI) is a novel framework that facilitates predictions in unseen domains without requiring hyperparameter tuning or knowledge of specific distribution shifts. However, the available frequentist version of GI does not always enable identification and lacks uncertainty quantification for its predictions. This paper develops a Bayesian formulation that extends GI with well-calibrated external predictions and facilitates causal discovery. We present theoretical guarantees showing that prior distributions assign asymptotic meaning to the number of distinct datasets that could be observed. Simulations and an application case highlight the remarkable empirical coverage behavior of our approach, nearly unchanged when transitioning from low- to moderate-dimensional settings.
