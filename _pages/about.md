@@ -26,6 +26,7 @@ I see mathematical statistics as a unifying framework in this time of disruption
 
 
 ![My Image](/images/pizarra.png)
+![My Image](/images/telefonica.png)
 ![My Image](/images/hal_design.png)
 
 ```python
