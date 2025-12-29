@@ -2,7 +2,7 @@
 title: "Domain adaptation under hidden confounding"
 collection: publications
 category: manuscripts
-permalink: /publication/dahc
+permalink: /publication/dahc.md
 excerpt: 'with David Rios Insua'
 date: 2025-12-02
 venue: 'Electron. J. Statist. 19 (2) 5805 - 5842, 2025'
