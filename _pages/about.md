@@ -26,8 +26,21 @@ I see mathematical statistics as a unifying framework in this time of disruption
 
 
 ![My Image](/images/pizarra.png)
-![My Image](/images/telefonica.png)
 ![My Image](/images/hal_design.png)
+![My Image](/images/telefonica.png)
+
+```r
+remotes::install_github("meixide/hapc")
+library(hapc)
+rescv <- cv.hapc(X, Y,
+                 npcs = n-1,
+                 log_lambda_min =-6,
+                 log_lambda_max = -1,
+                 norm = "1",
+                 max_degree=d,
+                 predict=Xnew
+)
+```
 
 ```python
 class GenerativeInvariance(Estimator):
