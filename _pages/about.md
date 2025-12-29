@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-[Short CV](https://www.dropbox.com/scl/fi/oxbyvrctfj263mg28eqit/main.pdf?rlkey=41k6uh1x101at7iquemnibty6&dl=0)
+[Short CV](https://www.dropbox.com/scl/fi/rpj3shfcvt3wsfqjbbmdj/main.pdf?rlkey=zlnq6nrlaanoajs23b9bwxn0l&st=3etzvxdt&dl=0)
 
 ## About me
-I see mathematical statistics as a unifying framework in this time of disruption brought by AI. The principles of my work are abstraction and utility, nowhere more evident than in clinical trials: the convergence point of medicine and data science converge at unprecedented speed. The field is innovating quietly but relentlessly, with sophisticated designs and endpoints. Causal inference has become the common language connecting data, evidence, and purpose in this delicate conversation; allowing regulators, statisticians, and clinical researchers to communicate with clarity, rigor, and confidence. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics.
+I see mathematical statistics as a unifying framework in this time of disruption brought by AI. The principles of my work are abstraction and practicality, nowhere more evident than in clinical trials: the convergence point of medicine and data science converge at unprecedented speed. The field is innovating quietly but relentlessly, with sophisticated designs and endpoints. Causal inference has become the common language connecting data, evidence, and purpose in this delicate conversation; allowing regulators, statisticians, and clinical researchers to communicate with clarity, rigor, and confidence. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics.
 
 
 ## News
