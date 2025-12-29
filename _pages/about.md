@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+[Short CV](https://www.dropbox.com/scl/fi/oxbyvrctfj263mg28eqit/main.pdf?rlkey=41k6uh1x101at7iquemnibty6&dl=0)
+
 ## About me
 I see mathematical statistics as a unifying framework in this time of disruption brought by AI. The principles of my work are abstraction and utility, nowhere more evident than in clinical trials, where medicine and data science converge at unprecedented speed. The field is innovating quietly but relentlessly, with cutting-edge designs and endpoints. Causal inference has become the common language connecting data, evidence, and purpose in this delicate conversation; allowing regulators, statisticians, and clinical researchers to communicate with clarity, rigor, and confidence. While causal inference is often described as my research focus, I view it not as confined to a single area but as a thread running through the entire fabric of machine learning and statistics.
 
@@ -20,9 +23,6 @@ I see mathematical statistics as a unifying framework in this time of disruption
 - **Feb 24, 2025**: Touchdown in Berkeley after a long 13-hour flight. Exciting times ahead at [CTML](https://ctml.berkeley.edu)!
 - **Feb 11, 2025**: *Causal Survival Embeddings* has been published in *Statistical Methods in Medical Research*! Check it out: [https://doi.org/10.1177/09622802241311455](https://doi.org/10.1177/09622802241311455)
 - **Dec 18, 2024**: Honored to receive the Institute of Mathematical Statistics Award in Nice for *Uncertainty quantification for intervals*.
-
-  
-- [Short CV](https://www.dropbox.com/scl/fi/oxbyvrctfj263mg28eqit/main.pdf?rlkey=41k6uh1x101at7iquemnibty6&dl=0)
 
 
 ![My Image](/images/pizarra.png)
