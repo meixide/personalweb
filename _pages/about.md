@@ -14,6 +14,12 @@ I see mathematical statistics as a unifying framework in this time of disruption
 
 
 ## News
+- **Jun 27, 2026** — Just arrived in Nagoya, Japan and excited to attend the [2026 ISBA World Meeting](https://isba2026.github.io)
+- **Jun 4, 2026** Happy to present [“Shrinkage through Multiple Identifiability”](https://arxiv.org/abs/2604.18430) at the [II International Workshop on Bayesian Statistics](https://www.cunef.edu/eventos/ii-international-workshop-on-bayesian-statistics/). 
+- [“Neural interval-censored survival regression with feature selection”](https://onlinelibrary.wiley.com/doi/10.1002/sam.11704) was named one of Wiley’s most-viewed articles of 2025. 
+- **May 13, 2026** [Interview](https://www.elconfidencial.com/tecnologia/ciencia/2026-05-13/pandemia-covid-hantavirus-matematicas-probabilidades_4354139/) in El Confidencial on pandemic risk, emerging infectious diseases and causal inference.  
+- **Jan 26, 2026**: Visited IES Nuestra Señora de la Almudena as part of the NightMadrid scientific dissemination program.
+- **Jan 14, 2026**: Delighted to join [Celera](https://acelerame.org) as as fellow, an initiative that supports exceptional young leaders.
 - **Dec 2, 2025**: *Generative Invariance*, feat. [David Ríos Insua](https://www.davidriosinsua.es/), is now published in the [Electronic Journal of Statistics](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Domain-adaptation-under-hidden-confounding/10.1214/25-EJS2474.full). 
 - **Nov 5, 2025**: Grateful to the Statistics Department at Universidad de Valladolid for having me as a speaker. The talk was great, and the company even better.
 - **Sep 30, 2025**: Honored that [my entrepreneurial project](https://creative.variacle.com/) has been chosen by HealthStart, leading accelerator program in Spain dedicated to advancing innovative healthcare solutions.
